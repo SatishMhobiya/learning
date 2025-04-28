@@ -1,5 +1,9 @@
-https://codewithkarani.com/2023/12/31/how-to-install-erpnext-version-15-in-ubuntu-a-step-by-step-guide/?srsltid=AfmBOorgbrFIeIlcwBo7V073Ww-YdxVKYxmmkLHdnCOlB1M8terbFr_B
+----------------------------
+wsl --list --verbose
+wsl --unregister Ubuntu
 
+---------------------------
+https://codewithkarani.com/2023/12/31/how-to-install-erpnext-version-15-in-ubuntu-a-step-by-step-guide/?srsltid=AfmBOorgbrFIeIlcwBo7V073Ww-YdxVKYxmmkLHdnCOlB1M8terbFr_B
 -----------------------------
 
 sudo apt-get update
